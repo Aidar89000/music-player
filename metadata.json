@@ -1,0 +1,6 @@
+{
+  "name": "VinylGroove - Локальный аудио плеер",
+  "description": "Стильный аудиоплеер для прослушивания локальной музыки с анимированным виниловым и CD диском, плейлистами и визуализатором.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
